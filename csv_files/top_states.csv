@@ -1,0 +1,201 @@
+States,Transaction_count,Amount in Millions,Year,Quarters
+Telangana,1819506832,2978252.56,2022,4th quarter
+Telangana,1628165401,2706325.87,2022,3rd quarter
+Maharashtra,1688775272,2210470.84,2022,4th quarter
+Maharashtra,1407533113,2006272.38,2022,2nd quarter
+Telangana,1063382557,1951414.54,2022,2nd quarter
+Maharashtra,1486389417,1947579.19,2022,3rd quarter
+Karnataka,1378910371,1904516.62,2022,4th quarter
+Karnataka,1277448960,1867146.11,2022,2nd quarter
+Maharashtra,1169506438,1681399.27,2022,1st quarter
+Telangana,886453385,1670638.17,2022,1st quarter
+Karnataka,1189761328,1665918.23,2022,3rd quarter
+Karnataka,1057855407,1566649.49,2022,1st quarter
+Andhra Pradesh,671134030,1479853.95,2022,2nd quarter
+Maharashtra,1010731502,1475358.47,2021,4th quarter
+Telangana,775989773,1463758.19,2021,4th quarter
+Rajasthan,865574848,1456956.7,2022,4th quarter
+Andhra Pradesh,690017077,1424725.08,2022,4th quarter
+Andhra Pradesh,642855035,1385077.41,2022,3rd quarter
+Uttar Pradesh,836369071,1376378.8,2022,4th quarter
+Karnataka,931725438,1375471.32,2021,4th quarter
+Madhya Pradesh,898828268,1302999.86,2022,4th quarter
+Andhra Pradesh,582603911,1294320.65,2022,1st quarter
+Rajasthan,767541360,1238489.26,2022,3rd quarter
+Telangana,622886768,1178289.13,2021,3rd quarter
+Maharashtra,792874060,1159257.31,2021,3rd quarter
+Andhra Pradesh,522254003,1156264.45,2021,4th quarter
+Rajasthan,661170150,1152833.52,2022,2nd quarter
+Karnataka,753296539,1133234.74,2021,3rd quarter
+Uttar Pradesh,703589072,1121370.05,2022,3rd quarter
+Uttar Pradesh,595298776,1067515.18,2022,2nd quarter
+Madhya Pradesh,731259559,1032908.49,2022,3rd quarter
+Telangana,495867544,1027958.33,2021,2nd quarter
+Rajasthan,564962220,1022050.18,2022,1st quarter
+Andhra Pradesh,432032550,984218.04,2021,3rd quarter
+Bihar,517084649,936012.15,2022,4th quarter
+Maharashtra,573616486,915115.06,2021,2nd quarter
+Rajasthan,487621597,903934.42,2021,4th quarter
+Uttar Pradesh,473953246,883123.17,2022,1st quarter
+Madhya Pradesh,544899829,867024.74,2022,2nd quarter
+Andhra Pradesh,352767134,850737.5,2021,2nd quarter
+Karnataka,530649046,837887.15,2021,2nd quarter
+Telangana,412572110,799359.26,2021,1st quarter
+Bihar,437367385,791446.49,2022,3rd quarter
+Uttar Pradesh,406157932,773890.97,2021,4th quarter
+Maharashtra,517860240,769887.35,2021,1st quarter
+Karnataka,523797492,754995.36,2021,1st quarter
+Bihar,360145029,754461.45,2022,2nd quarter
+Madhya Pradesh,472703058,747665.14,2022,1st quarter
+Delhi,515203457,744915.02,2022,4th quarter
+Rajasthan,400284753,710511.33,2021,3rd quarter
+Telangana,343643787,696350.44,2020,4th quarter
+Delhi,475592161,677612.65,2022,3rd quarter
+Andhra Pradesh,289747970,672444.67,2021,1st quarter
+Karnataka,431536984,658036.7,2020,4th quarter
+Madhya Pradesh,404308084,656887.49,2021,4th quarter
+Andhra Pradesh,286118552,654841.55,2020,4th quarter
+Odisha,445714743,652217.06,2022,4th quarter
+Tamil Nadu,393496175,631879.22,2022,3rd quarter
+Delhi,410634184,629855.65,2022,2nd quarter
+Maharashtra,407621004,622155.53,2020,4th quarter
+Bihar,284390434,611411.7,2022,1st quarter
+Tamil Nadu,354506937,590134.73,2022,2nd quarter
+Rajasthan,287477039,561702.77,2021,2nd quarter
+Uttar Pradesh,306543384,557080.84,2021,3rd quarter
+Delhi,330999861,536964.92,2022,1st quarter
+Bihar,245126945,519371.61,2021,4th quarter
+Tamil Nadu,294573150,512789.2,2022,1st quarter
+Telangana,236372126,505961.14,2020,3rd quarter
+Madhya Pradesh,311443334,504412.6,2021,3rd quarter
+Rajasthan,252730919,491492.58,2021,1st quarter
+Delhi,292683359,488695.31,2021,4th quarter
+Uttar Pradesh,241949131,482172.49,2021,2nd quarter
+Karnataka,300360531,470740.52,2020,3rd quarter
+Andhra Pradesh,204902935,467084.13,2020,3rd quarter
+Tamil Nadu,259155976,443723.95,2021,4th quarter
+Maharashtra,268310924,440307.08,2020,3rd quarter
+Madhya Pradesh,223314680,425500.77,2021,2nd quarter
+Bihar,187671113,397062.76,2021,3rd quarter
+Uttar Pradesh,204499547,396287.59,2021,1st quarter
+Rajasthan,190283435,386034.78,2020,4th quarter
+Delhi,238760608,383858.32,2021,3rd quarter
+Bihar,155603622,374580.26,2021,2nd quarter
+Telangana,199409525,371343.78,2020,1st quarter
+Tamil Nadu,204357404,365207.32,2021,3rd quarter
+Uttar Pradesh,178167517,357428.83,2020,4th quarter
+Karnataka,271033890,353402.05,2020,1st quarter
+Madhya Pradesh,201998498,343533.95,2021,1st quarter
+Telangana,152055143,321531.84,2020,2nd quarter
+Karnataka,213221712,321104.88,2020,2nd quarter
+Maharashtra,238944081,319995.2,2020,1st quarter
+Andhra Pradesh,144917855,302583.69,2020,2nd quarter
+Maharashtra,184790761,296359.52,2020,2nd quarter
+Karnataka,237796252,295047.14,2019,4th quarter
+Rajasthan,149088676,293678.31,2020,3rd quarter
+Madhya Pradesh,153652541,284275.14,2020,4th quarter
+Delhi,170157264,281941.1,2021,2nd quarter
+Telangana,163572258,280746.77,2019,4th quarter
+Maharashtra,201260620,272994.43,2019,4th quarter
+Delhi,157359004,266928.35,2021,1st quarter
+Tamil Nadu,146158442,263487.34,2021,2nd quarter
+Andhra Pradesh,127677357,252737.21,2020,1st quarter
+Uttar Pradesh,127405259,248689.96,2020,3rd quarter
+Tamil Nadu,136556674,248668.14,2021,1st quarter
+West Bengal,118254052,242937.21,2021,1st quarter
+Delhi,120540417,216265.09,2020,4th quarter
+Karnataka,170733735,214536.72,2019,3rd quarter
+Tamil Nadu,111179701,206473.2,2020,4th quarter
+Madhya Pradesh,108579881,205701.68,2020,3rd quarter
+Telangana,121495376,201930.02,2019,3rd quarter
+Andhra Pradesh,107218103,200948.32,2019,4th quarter
+Maharashtra,148735581,199617.51,2019,3rd quarter
+West Bengal,100340645,199165.49,2020,4th quarter
+Rajasthan,101954656,193763.27,2020,2nd quarter
+Rajasthan,102258812,190308.24,2020,1st quarter
+Uttar Pradesh,100851965,178744.02,2020,2nd quarter
+Delhi,96491861,175163.96,2020,3rd quarter
+Bihar,71503748,173328.87,2020,3rd quarter
+Uttar Pradesh,97239132,172416.43,2020,1st quarter
+Karnataka,115401604,163702.02,2019,2nd quarter
+Rajasthan,85074242,159452.41,2019,4th quarter
+West Bengal,79954504,156813.36,2020,3rd quarter
+Telangana,89610379,155676.44,2019,2nd quarter
+Maharashtra,101149853,153294.47,2019,2nd quarter
+Madhya Pradesh,76340573,147922.02,2020,2nd quarter
+Uttar Pradesh,86905005,145538.93,2019,4th quarter
+Andhra Pradesh,76288614,139447.94,2019,3rd quarter
+Delhi,81747604,133616.54,2020,1st quarter
+Delhi,80744997,129024.47,2019,4th quarter
+Bihar,53386742,128806.52,2020,2nd quarter
+Madhya Pradesh,79366746,126737.28,2020,1st quarter
+Karnataka,86587609,117976.38,2019,1st quarter
+Tamil Nadu,66953473,116569.69,2020,1st quarter
+Andhra Pradesh,56409015,113634.52,2019,2nd quarter
+Rajasthan,67303617,112468.29,2019,3rd quarter
+Maharashtra,75079069,111420.69,2019,1st quarter
+Uttar Pradesh,68623959,111268.14,2019,3rd quarter
+Delhi,66042018,107873.44,2020,2nd quarter
+Madhya Pradesh,68131989,104687.93,2019,4th quarter
+Delhi,69537876,103196.81,2019,3rd quarter
+West Bengal,57676797,100099.43,2020,2nd quarter
+Uttar Pradesh,58883500,98917.52,2019,2nd quarter
+West Bengal,66250381,96653.31,2020,1st quarter
+Telangana,65290702,95523.26,2019,1st quarter
+Rajasthan,50009286,89107.31,2019,2nd quarter
+West Bengal,96805838,88203.61,2019,4th quarter
+Andhra Pradesh,57264522,83760.6,2019,1st quarter
+Delhi,57171512,81706.82,2019,2nd quarter
+Odisha,64995633,79769.37,2019,4th quarter
+Maharashtra,46090223,79518.94,2018,4th quarter
+Madhya Pradesh,53610411,77676.32,2019,3rd quarter
+Uttar Pradesh,57324504,76524.18,2019,1st quarter
+Karnataka,44812071,73008.39,2018,4th quarter
+West Bengal,66444829,70540.53,2019,3rd quarter
+Madhya Pradesh,40846013,68334.57,2019,2nd quarter
+Tamil Nadu,32171737,64207.68,2019,2nd quarter
+Rajasthan,43956040,61141.16,2019,1st quarter
+Delhi,47007327,58469.13,2019,1st quarter
+Odisha,41422272,57304.58,2019,3rd quarter
+West Bengal,47023535,57105.69,2019,2nd quarter
+Uttar Pradesh,36100767,55096.74,2018,4th quarter
+Maharashtra,31538538,52260.82,2018,3rd quarter
+Andhra Pradesh,30759548,51473.78,2018,4th quarter
+West Bengal,47626388,50164.67,2019,1st quarter
+Telangana,28921154,49509.09,2018,4th quarter
+Karnataka,25980261,48225.09,2018,3rd quarter
+Madhya Pradesh,37301049,48070.28,2019,1st quarter
+Tamil Nadu,22457444,43302.07,2018,4th quarter
+West Bengal,53705416,41843.93,2018,3rd quarter
+West Bengal,36513548,40489.62,2018,4th quarter
+Delhi,29187719,39722.86,2018,4th quarter
+Uttar Pradesh,26515356,37012.11,2018,3rd quarter
+Maharashtra,22285740,36357.06,2018,2nd quarter
+Andhra Pradesh,25626061,35718.04,2018,3rd quarter
+Odisha,34031942,35427.13,2019,1st quarter
+Madhya Pradesh,21397555,33905.61,2018,4th quarter
+Karnataka,17116447,33515.58,2018,2nd quarter
+Telangana,19332703,32030.09,2018,3rd quarter
+Tamil Nadu,15774078,29330.09,2018,3rd quarter
+Delhi,18547048,27375.85,2018,3rd quarter
+Uttar Pradesh,17710943,25720.2,2018,2nd quarter
+Madhya Pradesh,17126985,24149.74,2018,3rd quarter
+Odisha,21142798,23429.87,2018,4th quarter
+Odisha,30052155,23094.52,2018,3rd quarter
+Telangana,10764670,23017.2,2018,2nd quarter
+Andhra Pradesh,12353918,22883.91,2018,2nd quarter
+Maharashtra,16387034,21711.61,2018,1st quarter
+Tamil Nadu,9992128,20125.84,2018,2nd quarter
+Karnataka,12016899,19217.9,2018,1st quarter
+West Bengal,18082446,18629.18,2018,2nd quarter
+Delhi,9373723,17446.3,2018,2nd quarter
+Madhya Pradesh,10561412,15924.08,2018,2nd quarter
+Rajasthan,9973697,15559.09,2018,2nd quarter
+Uttar Pradesh,12537805,13939.97,2018,1st quarter
+Telangana,8522766,13308.2,2018,1st quarter
+Andhra Pradesh,9039585,11996.28,2018,1st quarter
+Tamil Nadu,6726622,11261.56,2018,1st quarter
+Delhi,7122754,11211.5,2018,1st quarter
+West Bengal,11710225,10625.98,2018,1st quarter
+Rajasthan,7591690,8926.29,2018,1st quarter
+Madhya Pradesh,8025395,8681.6,2018,1st quarter

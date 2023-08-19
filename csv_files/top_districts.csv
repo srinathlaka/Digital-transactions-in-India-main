@@ -1,0 +1,201 @@
+Districts,Transaction_count,Amount in Millions,Year,Quarters
+Hyderabad,1133829812,1753799.02,2022,4th quarter
+Hyderabad,1018658174,1586047.44,2022,3rd quarter
+Bengaluru Urban,876647100,1092079.3,2022,4th quarter
+Bengaluru Urban,786978117,1013933.81,2022,2nd quarter
+Bengaluru Urban,738035161,930886.46,2022,3rd quarter
+Bengaluru Urban,648380838,837938.77,2022,1st quarter
+Hyderabad,446470234,775908.69,2022,2nd quarter
+Bengaluru Urban,584958847,755926.04,2021,4th quarter
+Hyderabad,372711414,661512.5,2022,1st quarter
+Jaipur,404922774,635458.55,2022,4th quarter
+Bengaluru Urban,476485560,626123.2,2021,3rd quarter
+Pune,520321567,620747.09,2022,2nd quarter
+Pune,544687754,590334.49,2022,4th quarter
+Hyderabad,325636475,582079.17,2021,4th quarter
+Jaipur,377469909,564818.22,2022,3rd quarter
+Pune,505018506,549531.79,2022,3rd quarter
+Pune,424149132,508475.1,2022,1st quarter
+Jaipur,314511010,497492.5,2022,2nd quarter
+Hyderabad,262028284,479343.32,2021,3rd quarter
+Pune,371337618,454584.74,2021,4th quarter
+Bengaluru Urban,326804307,444422.4,2021,2nd quarter
+Jaipur,262950613,434507.9,2022,1st quarter
+Bengaluru Urban,348712787,432401.34,2021,1st quarter
+Hyderabad,212326623,424872.74,2021,2nd quarter
+Jaipur,231804892,394435.78,2021,4th quarter
+Central Delhi,280960656,386107.88,2022,4th quarter
+Pune,303322956,372243.66,2021,3rd quarter
+Bengaluru Urban,267720411,352536.74,2020,4th quarter
+Patna,217434851,352393.76,2022,4th quarter
+Chhindwara,245710341,350638.06,2022,4th quarter
+Central Delhi,243139962,327191.97,2022,3rd quarter
+Hyderabad,169703372,316572.39,2021,1st quarter
+Jaipur,193839196,313664.44,2021,3rd quarter
+Mumbai Suburban,248827345,310278.22,2022,4th quarter
+Patna,188665398,298860.41,2022,3rd quarter
+Pune,218732925,298657.5,2021,2nd quarter
+Rangareddy,191136402,295773.66,2022,4th quarter
+Rangareddy,169029273,272598.08,2022,3rd quarter
+Khordha,208260666,268479.77,2022,4th quarter
+Rangareddy,161888380,267052.52,2022,2nd quarter
+Bengaluru Urban,188947684,261095.18,2020,3rd quarter
+Bhopal,185588829,255910.4,2022,2nd quarter
+Pune,208930588,253623.63,2021,1st quarter
+Jaipur,137247139,248390.98,2021,2nd quarter
+Mumbai Suburban,197724164,247678.98,2022,3rd quarter
+Hyderabad,117008707,243045.18,2020,4th quarter
+Chhindwara,169367916,236429.18,2022,3rd quarter
+Khordha,182514532,234714.0,2022,3rd quarter
+Central Delhi,159034619,232911.86,2022,2nd quarter
+Bengaluru Urban,200174352,231970.69,2020,1st quarter
+Hyderabad,99285803,228448.74,2020,3rd quarter
+Jaipur,125917532,223771.21,2021,1st quarter
+Medchal Malkajgiri,134114768,221257.32,2022,2nd quarter
+Bhopal,159892411,221096.76,2022,1st quarter
+Rangareddy,127675017,216609.88,2022,1st quarter
+Bengaluru Urban,180458808,199966.71,2019,4th quarter
+Central Delhi,128309915,198072.6,2022,1st quarter
+Bhopal,134176541,190196.22,2021,4th quarter
+Rangareddy,111354739,188838.97,2021,4th quarter
+Medchal Malkajgiri,110893187,185168.27,2022,1st quarter
+Hyderabad,94177232,183207.21,2020,1st quarter
+Pune,142350762,182511.55,2020,4th quarter
+Central Delhi,111134916,177625.51,2021,4th quarter
+Bengaluru Urban,132120979,176357.1,2020,2nd quarter
+Khordha,124986765,174299.13,2022,2nd quarter
+Mumbai Suburban,125227570,172590.49,2022,2nd quarter
+Medchal Malkajgiri,98780634,164568.26,2021,4th quarter
+Jaipur,82378485,159641.72,2020,4th quarter
+Pune,101472134,154366.36,2020,3rd quarter
+Khordha,104052705,152745.33,2022,1st quarter
+Bengaluru Urban,131234422,150244.28,2019,3rd quarter
+Mumbai Suburban,104595313,148080.84,2022,1st quarter
+Rangareddy,87884143,147772.05,2021,3rd quarter
+Bhopal,103403998,146735.12,2021,3rd quarter
+Jaipur,71797182,138189.42,2020,3rd quarter
+Central Delhi,88849847,137311.39,2021,3rd quarter
+Visakhapatnam,69220981,136945.65,2021,3rd quarter
+Khordha,94505879,135122.13,2021,4th quarter
+Mumbai Suburban,92733033,134616.1,2021,4th quarter
+Medchal Malkajgiri,79514766,130838.26,2021,3rd quarter
+Hyderabad,56374644,130820.06,2020,2nd quarter
+Hyderabad,72987282,130230.42,2019,4th quarter
+Bhopal,74643630,127038.87,2021,2nd quarter
+Pune,107497963,119146.18,2020,1st quarter
+Patna,53400850,114936.4,2021,2nd quarter
+Visakhapatnam,54390299,114439.01,2021,2nd quarter
+Rangareddy,63155281,113987.19,2021,2nd quarter
+Bengaluru Urban,89148659,113389.91,2019,2nd quarter
+Khordha,71647985,108452.2,2021,3rd quarter
+Pune,91666565,103270.64,2019,4th quarter
+Medchal Malkajgiri,58755991,102864.36,2021,2nd quarter
+Bhopal,67309234,101725.72,2021,1st quarter
+Central Delhi,62131856,100895.88,2021,2nd quarter
+Rangareddy,60675056,98883.15,2021,1st quarter
+Jaipur,52623661,98360.85,2020,1st quarter
+Hyderabad,55159072,96365.18,2019,3rd quarter
+Visakhapatnam,48248923,95308.39,2021,1st quarter
+Pune,58840981,94890.91,2020,2nd quarter
+Visakhapatnam,46551467,91879.82,2020,4th quarter
+Central Delhi,54173342,90711.72,2021,1st quarter
+Rangareddy,53405219,89256.13,2020,4th quarter
+Jaipur,43871862,88270.82,2020,2nd quarter
+Medchal Malkajgiri,54854446,87516.74,2021,1st quarter
+Bengaluru Urban,65174133,82111.16,2019,1st quarter
+Medchal Malkajgiri,49900746,81801.11,2020,4th quarter
+Jaipur,44335592,81782.14,2019,4th quarter
+Pune,67093416,78128.87,2019,3rd quarter
+Mumbai Suburban,49079788,75911.51,2021,1st quarter
+Hyderabad,43511186,73949.38,2019,2nd quarter
+Bhopal,38492334,67905.95,2020,4th quarter
+Visakhapatnam,34421299,67628.44,2020,3rd quarter
+Central Delhi,32194168,61575.44,2020,4th quarter
+Central Delhi,32203761,61527.72,2020,3rd quarter
+Jaipur,36334520,58402.1,2019,3rd quarter
+Pune,44795652,58398.81,2019,2nd quarter
+Bhopal,29560361,57525.61,2020,3rd quarter
+New Delhi,29048107,54398.43,2019,4th quarter
+Mumbai Suburban,31947471,52567.09,2020,4th quarter
+Rangareddy,29573243,51787.72,2020,3rd quarter
+Bengaluru Urban,33061353,50279.17,2018,4th quarter
+Medchal Malkajgiri,28698311,48831.7,2020,3rd quarter
+Visakhapatnam,27115031,48809.75,2020,1st quarter
+Visakhapatnam,25300401,48293.89,2020,2nd quarter
+Jaipur,27449382,46056.91,2019,2nd quarter
+Rangareddy,31802492,45881.23,2020,1st quarter
+Rangareddy,31237803,44757.33,2019,4th quarter
+Khordha,23387123,44638.45,2020,3rd quarter
+New Delhi,24687138,43288.06,2019,3rd quarter
+Central Delhi,24757650,41219.41,2020,1st quarter
+Mumbai Suburban,23598054,40462.12,2020,1st quarter
+Khordha,23152370,39755.14,2020,1st quarter
+Visakhapatnam,23594874,39133.3,2019,4th quarter
+Medchal Malkajgiri,25458101,37404.47,2020,1st quarter
+New Delhi,23313548,36146.67,2019,2nd quarter
+Hyderabad,24838664,34892.16,2019,1st quarter
+Khordha,16842715,34814.88,2020,2nd quarter
+Khordha,27477393,34227.23,2019,4th quarter
+Bengaluru Urban,18405424,33812.84,2018,3rd quarter
+Rangareddy,23655175,33663.96,2019,3rd quarter
+Ahmadabad,16430916,32731.9,2020,2nd quarter
+Pune,23360634,32233.52,2019,1st quarter
+Medchal Malkajgiri,22999944,31417.91,2019,4th quarter
+Rangareddy,18068048,31273.55,2020,2nd quarter
+Central Delhi,17641823,30418.6,2020,2nd quarter
+Medchal Malkajgiri,17860704,29732.06,2020,2nd quarter
+Visakhapatnam,16694947,26944.84,2019,3rd quarter
+Kolkata,21917627,26475.75,2019,4th quarter
+Patna,13421445,26125.48,2019,2nd quarter
+Khordha,18364742,25509.66,2019,3rd quarter
+Rangareddy,16348519,25359.41,2019,2nd quarter
+Jaipur,19178441,25043.54,2019,1st quarter
+Bengaluru Urban,11916035,23824.73,2018,2nd quarter
+Medchal Malkajgiri,17492750,23256.56,2019,3rd quarter
+Lucknow,12624404,22426.46,2019,2nd quarter
+Kolkata,16306691,21451.2,2019,3rd quarter
+Khordha,13339889,19006.08,2019,2nd quarter
+Chennai,11642449,18810.97,2019,1st quarter
+Pune,11075153,18048.88,2018,4th quarter
+Rangareddy,12952050,17677.05,2019,1st quarter
+Kolkata,13259522,17260.85,2019,2nd quarter
+Central Delhi,12885975,16258.18,2019,1st quarter
+Hyderabad,9360515,14727.85,2018,4th quarter
+Chennai,8007699,14632.4,2018,4th quarter
+Bengaluru Urban,8306513,14162.75,2018,1st quarter
+New Delhi,10000765,13939.47,2019,1st quarter
+Central Delhi,9373395,13878.49,2018,4th quarter
+Medchal Malkajgiri,10127087,13392.04,2019,1st quarter
+Pune,7890491,12601.61,2018,3rd quarter
+Jaipur,7271209,12107.34,2018,4th quarter
+Mumbai,6060284,11506.14,2018,4th quarter
+Central Delhi,8165361,10515.88,2018,3rd quarter
+Gautam Buddha Nagar,10750094,10286.43,2019,1st quarter
+Chennai,5887343,10122.32,2018,3rd quarter
+Hyderabad,5786941,9503.55,2018,3rd quarter
+Rangareddy,5803319,9396.31,2018,4th quarter
+Pune,5162876,8513.43,2018,2nd quarter
+Kolkata,5401244,8502.1,2018,4th quarter
+Jaipur,4954443,7882.15,2018,3rd quarter
+Gautam Buddha Nagar,6083056,7483.53,2018,4th quarter
+Chennai,3719593,7305.36,2018,2nd quarter
+Hyderabad,3156805,6628.16,2018,2nd quarter
+Central Delhi,3589206,6223.47,2018,2nd quarter
+Birbhum,6066238,6130.63,2018,3rd quarter
+Mumbai,3277612,6048.52,2018,2nd quarter
+Pune,3842929,5378.98,2018,1st quarter
+Jaipur,3175255,4952.88,2018,2nd quarter
+North Twenty Four Parganas,4856114,4545.9,2018,3rd quarter
+Khordha,5333443,4389.72,2018,3rd quarter
+Central Delhi,2997714,4312.15,2018,1st quarter
+Hyderabad,2545507,4287.22,2018,1st quarter
+Chennai,2656230,4281.14,2018,1st quarter
+Kolkata,2501448,4109.82,2018,2nd quarter
+Birbhum,2775489,3988.93,2018,2nd quarter
+Mumbai,2671029,3923.12,2018,1st quarter
+Jaipur,2417174,2953.09,2018,1st quarter
+Kolkata,2043129,2753.35,2018,1st quarter
+Birbhum,2125816,2520.49,2018,1st quarter
+North Twenty Four Parganas,2119664,2509.38,2018,2nd quarter
+Bankura,5179457,2464.19,2018,3rd quarter
+Bhopal,1704495,1905.47,2018,1st quarter

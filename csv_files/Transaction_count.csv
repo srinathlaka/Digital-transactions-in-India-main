@@ -1,0 +1,101 @@
+Payment_Type,Transaction_count,Amount in Millions,Year,Quarter
+Recharge & bill payments,72550406,14472.71,2018,1st Quarter
+Peer-to-peer payments,46982705,147000.0,2018,1st Quarter
+Merchant payments,5368669,4656.68,2018,1st Quarter
+Financial Services,3762820,815.85,2018,1st Quarter
+Others,5761576,4643.22,2018,1st Quarter
+Recharge & bill payments,92033715,24351.23,2018,2nd Quarter
+Peer-to-peer payments,74558816,265000.0,2018,2nd Quarter
+Merchant payments,10613941,9052.86,2018,2nd Quarter
+Financial Services,5186569,1176.99,2018,2nd Quarter
+Others,4973199,5027.45,2018,2nd Quarter
+Peer-to-peer payments,202021587,426000.0,2018,3rd Quarter
+Recharge & bill payments,102290514,31364.31,2018,3rd Quarter
+Merchant payments,25175938,12433.15,2018,3rd Quarter
+Financial Services,6218596,891.45,2018,3rd Quarter
+Others,5594554,4449.56,2018,3rd Quarter
+Peer-to-peer payments,200235002,595000.0,2018,4th Quarter
+Recharge & bill payments,131917248,39578.61,2018,4th Quarter
+Merchant payments,71498510,30497.29,2018,4th Quarter
+Financial Services,5216165,868.58,2018,4th Quarter
+Others,8246415,5802.66,2018,4th Quarter
+Peer-to-peer payments,404841331,888000.0,2019,1st Quarter
+Recharge & bill payments,180504739,55473.07,2019,1st Quarter
+Merchant payments,110496541,40575.92,2019,1st Quarter
+Financial Services,4627353,603.85,2019,1st Quarter
+Others,8526177,5484.25,2019,1st Quarter
+Peer-to-peer payments,384711008,1200000.0,2019,2nd Quarter
+Recharge & bill payments,209898072,76865.85,2019,2nd Quarter
+Merchant payments,206467182,73415.84,2019,2nd Quarter
+Financial Services,2650384,545.33,2019,2nd Quarter
+Others,11656557,6969.42,2019,2nd Quarter
+Peer-to-peer payments,461911865,1440000.0,2019,3rd Quarter
+Merchant payments,376320628,123000.0,2019,3rd Quarter
+Recharge & bill payments,240103872,102000.0,2019,3rd Quarter
+Financial Services,2870292,617.12,2019,3rd Quarter
+Others,13804992,6705.14,2019,3rd Quarter
+Peer-to-peer payments,703497002,1960000.0,2019,4th Quarter
+Merchant payments,456578271,174000.0,2019,4th Quarter
+Recharge & bill payments,285310032,116000.0,2019,4th Quarter
+Financial Services,2476840,551.2,2019,4th Quarter
+Others,12583379,4811.82,2019,4th Quarter
+Peer-to-peer payments,693998661,2320000.0,2020,1st Quarter
+Merchant payments,566355270,231000.0,2020,1st Quarter
+Recharge & bill payments,351300991,140000.0,2020,1st Quarter
+Financial Services,1358171,773.85,2020,1st Quarter
+Others,10027019,4116.91,2020,1st Quarter
+Peer-to-peer payments,631031364,2240000.0,2020,2nd Quarter
+Recharge & bill payments,448842692,172000.0,2020,2nd Quarter
+Merchant payments,363275861,227000.0,2020,2nd Quarter
+Financial Services,1682062,1751.77,2020,2nd Quarter
+Others,3779461,1987.47,2020,2nd Quarter
+Peer-to-peer payments,916790263,3290000.0,2020,3rd Quarter
+Merchant payments,672019839,405000.0,2020,3rd Quarter
+Recharge & bill payments,436172619,204000.0,2020,3rd Quarter
+Financial Services,2531978,2673.06,2020,3rd Quarter
+Others,5541374,2789.91,2020,3rd Quarter
+Peer-to-peer payments,1249512647,4470000.0,2020,4th Quarter
+Merchant payments,1127490136,685000.0,2020,4th Quarter
+Recharge & bill payments,479784084,228000.0,2020,4th Quarter
+Financial Services,2942567,3259.17,2020,4th Quarter
+Others,9556404,5323.1,2020,4th Quarter
+Merchant payments,1467948823,844000.0,2021,1st Quarter
+Peer-to-peer payments,1447600942,5170000.0,2021,1st Quarter
+Recharge & bill payments,530118545,260000.0,2021,1st Quarter
+Financial Services,3075296,3573.88,2021,1st Quarter
+Others,8851525,5199.9,2021,1st Quarter
+Peer-to-peer payments,1744272888,6160000.0,2021,2nd Quarter
+Merchant payments,1499626469,1000000.0,2021,2nd Quarter
+Recharge & bill payments,685024821,301000.0,2021,2nd Quarter
+Financial Services,3397384,3652.0,2021,2nd Quarter
+Others,9061732,5598.13,2021,2nd Quarter
+Merchant payments,2316924871,1430000.0,2021,3rd Quarter
+Peer-to-peer payments,2215575286,7430000.0,2021,3rd Quarter
+Recharge & bill payments,714583744,349000.0,2021,3rd Quarter
+Financial Services,3112160,4043.34,2021,3rd Quarter
+Others,13558464,7146.87,2021,3rd Quarter
+Merchant payments,3152394530,2000000.0,2021,4th Quarter
+Peer-to-peer payments,2716561423,9200000.0,2021,4th Quarter
+Recharge & bill payments,738096162,407000.0,2021,4th Quarter
+Financial Services,4141629,5028.43,2021,4th Quarter
+Others,14562602,9296.99,2021,4th Quarter
+Merchant payments,3748851071,2270000.0,2022,1st Quarter
+Peer-to-peer payments,3074250150,10500000.0,2022,1st Quarter
+Recharge & bill payments,749674246,448000.0,2022,1st Quarter
+Financial Services,4035100,4921.21,2022,1st Quarter
+Others,16393502,8422.77,2022,1st Quarter
+Merchant payments,4765203787,2850000.0,2022,2nd Quarter
+Peer-to-peer payments,3506141323,12100000.0,2022,2nd Quarter
+Recharge & bill payments,845751926,523000.0,2022,2nd Quarter
+Financial Services,3272822,3889.79,2022,2nd Quarter
+Others,11241480,6711.03,2022,2nd Quarter
+Merchant payments,5618132071,3150000.0,2022,3rd Quarter
+Peer-to-peer payments,3957113406,12800000.0,2022,3rd Quarter
+Recharge & bill payments,956164949,607000.0,2022,3rd Quarter
+Financial Services,3959631,4514.22,2022,3rd Quarter
+Others,10005043,6725.9,2022,3rd Quarter
+Merchant payments,6565690145,3670000.0,2022,4th Quarter
+Peer-to-peer payments,4459859921,14600000.0,2022,4th Quarter
+Recharge & bill payments,991049281,650000.0,2022,4th Quarter
+Financial Services,4623387,5360.53,2022,4th Quarter
+Others,10013085,7361.49,2022,4th Quarter
