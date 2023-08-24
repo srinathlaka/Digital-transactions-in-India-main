@@ -1,7 +1,7 @@
 # Digital-transactions-in-India
 
 This repository contains code for an interactive dashboard that analyzes the transactions and users data of PhonePe, an Indian digital payments platform.
-Link for web application: https://konidenasaikumar-digital-transactions-in-india.streamlit.app/ <br>
+Link for web application:  <br>
 ## Components of the Dashboard
 
 The dashboard consists of three main components:
